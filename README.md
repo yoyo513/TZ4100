@@ -8,5 +8,6 @@
       1. LD、ULD流程調整(PP-Select TimeOut問題) => 待測試                
       2. AppConfig增加 LD、ULD AckCleanData flag default True，True = 收到Ack 會清掉寫入值，False =收到Ack不清除寫入值 => 待測試
       3. S7F23疑似卡控有問題，已修正可再度測試 => 待測試
+      4. LD、ULD SVID拆開
 
 ==========================================================================================
